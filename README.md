@@ -43,9 +43,9 @@
 ### 🚀 [**LeetCode Profile - Soumya Ranjan Mallick**](https://leetcode.com/u/sam-2003/)
 
 ### 📅 **LeetCode Streak Table**
-![LeetCode Streak](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
+![LeetCode Streak Table](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
 ### 📈 **LeetCode Problem Solved Graph**
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
+![LeetCode Problem Solved Graph](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
