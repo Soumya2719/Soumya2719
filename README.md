@@ -22,10 +22,12 @@
 ### 🏆 Badges & Progress:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/u/sam-2003/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sam-2003?theme=dark&font=Baloo&ext=activity&border=3&radius=10)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
 ### 🌟 LeetCode Badges
-![LeetCode Rating](https://leetcard.jacoblin.cool/sam-2003?theme=dark&font=Baloo&ext=contest) 
 ![LeetCode Badges](https://leetcard.jacoblin.cool/sam-2003?theme=dark&font=Baloo&ext=badges)
+
+### 📈 LeetCode Recent Activity
+![LeetCode Recent](https://leetcard.jacoblin.cool/sam-2003?theme=dark&font=Baloo&ext=activity)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
