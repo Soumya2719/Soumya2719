@@ -49,14 +49,11 @@
 - **Current Streak**: 50 Days
 - **Top Contest Rank**: Top 10% in many contests
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
-  
-### 🏆 **LeetCode Achievements**
+---
 
-- **Max Streak**: 100 days  
-- **Current Streak**: 50 days  
-- **Total Problems Solved**: 200+  
-- **Rank**: Expert (1900+ rating)  
+### 📅 **LeetCode Streak Table**
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
 [View more details on my LeetCode profile!](https://leetcode.com/u/sam-2003/)
 
