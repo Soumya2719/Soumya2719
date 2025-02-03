@@ -1,7 +1,14 @@
 # 👋 **Hello, I'm Soumya Ranjan Mallick**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-ranjan-mallick-308094288)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyarmallick.bd@gmail.com)
+## 🖥️ About Me
+
+Hi, I'm Soumya Ranjan Mallick, a passionate and self-driven software developer with a love for coding and problem-solving. I am currently focused on learning and building projects using the latest technologies. I'm always eager to contribute to open-source projects and collaborate with like-minded individuals.
+
+- 🔭 I’m currently working on **Spring Boot + PostgreSQL applications**.
+- 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **Java**, **Python**, **Spring Boot**, **PostgreSQL**, and **LeetCode**.
+- 📫 How to reach me: [soumyarmallick.bd@gmail.com](mailto:soumyarmallick.bd@gmail.com).
 
 ---
 
@@ -54,6 +61,13 @@
 
 ### 📈 **LeetCode Problem Solved Graph**
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
+
+---
+
+## 📧 **Contact Me**
+
+- Email: [soumyarmallick.bd@gmail.com](mailto:soumyarmallick.bd@gmail.com)
+- LinkedIn: [Soumya Ranjan Mallick](https://www.linkedin.com/in/soumya-ranjan-mallick-308094288)
 
 ---
 
