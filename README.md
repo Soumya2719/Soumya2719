@@ -50,13 +50,11 @@
 ### 🚀 [**LeetCode Profile - Soumya Ranjan Mallick**](https://leetcode.com/u/sam-2003/)
 
 ### 📅 **LeetCode Streak Table**
-![LeetCode Streak Table](https://leet-streak.vercel.app/api?username=sam-2003&theme=dark)
+![LeetCode Streak](https://leetcard.jacoblin.cool/sam-2003?theme=dark)
 
 ### 📈 **LeetCode Problem Solved Graph**
-![LeetCode Problem Solved Graph](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Soumya2719&icon=10&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
