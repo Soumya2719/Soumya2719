@@ -40,10 +40,10 @@
 
 ## 💪 **LeetCode Achievements**
 
-### 🏆 **LeetCode Stats**:
+### 🏆 **LeetCode Stats**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/u/sam-2003/)  
-[![Solved](https://img.shields.io/badge/Solved-📈%20200%20Problems%20%20%20-%2300C9A7?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sam-2003/)  
+[![Solved](https://img.shields.io/badge/Solved-200%20Problems%20-%2300C9A7?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sam-2003/)  
 [![Rating](https://img.shields.io/badge/Rating-%231900%20(Expert)%20-%2300C9A7?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sam-2003/)
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
@@ -57,5 +57,9 @@
 
 🚀 **Max Streak**: ![100 Days Streak](https://img.shields.io/badge/Max%20Streak%20100%20Days-green?style=flat&logo=leetcode&logoColor=white)  
 📅 **Current Streak**: ![50 Days Streak](https://img.shields.io/badge/Current%20Streak%2050%20Days-blue?style=flat&logo=leetcode&logoColor=white)
+
+### 💻 **LeetCode Contest Participation**
+- 🏅 **Global Rank**: ![Global Rank](https://img.shields.io/badge/Rank-%231200/10000-red?style=flat&logo=leetcode&logoColor=white)
+- 🏆 **Top 10% in Contests**: Achieved in multiple contests
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
