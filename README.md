@@ -19,15 +19,13 @@
 [![](https://visitcount.itsvg.in/api?id=Soumya2719&icon=10&color=12)](https://visitcount.itsvg.in)
 
 ## 💪 LeetCode Achievements
-### 🏆 Badges & Progress:
+### 🏆 Progress & Streaks:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/u/sam-2003/)
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
-### 🌟 LeetCode Badges
-![LeetCode Badges](https://leetcard.jacoblin.cool/sam-2003?theme=dark&font=Baloo&ext=badges)
-
-### 📈 LeetCode Recent Activity
-![LeetCode Recent](https://leetcard.jacoblin.cool/sam-2003?theme=dark&font=Baloo&ext=activity)
+### 💡 Streak Challenges
+[![50 Days Streak](https://img.shields.io/badge/50%20Days%20Streak-3D?style=for-the-badge&color=blue)](https://leetcode.com/u/sam-2003/)
+[![100 Days Streak](https://img.shields.io/badge/100%20Days%20Streak-3D?style=for-the-badge&color=gold)](https://leetcode.com/u/sam-2003/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
