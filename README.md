@@ -42,19 +42,10 @@
 
 ### 🚀 [**LeetCode Profile - Soumya Ranjan Mallick**](https://leetcode.com/u/sam-2003/)
 
-- **Rank**: Global Rank: [#1600+](https://leetcode.com/u/sam-2003/)
-- **Solved Problems**: 200+ problems across various topics.
-- **Rating**: Expert (1900+ rating)
-- **Max Streak**: 100 Days
-- **Current Streak**: 50 Days
-- **Top Contest Rank**: Top 10% in many contests
-
----
-
 ### 📅 **LeetCode Streak Table**
+![LeetCode Streak](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
 
+### 📈 **LeetCode Problem Solved Graph**
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
-
-[View more details on my LeetCode profile!](https://leetcode.com/u/sam-2003/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
