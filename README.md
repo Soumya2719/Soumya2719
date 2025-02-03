@@ -38,28 +38,26 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumya2719&icon=10&color=12)](https://visitcount.itsvg.in)
 
-## 💪 **LeetCode Achievements**
+## 💪 **LeetCode Profile**
 
-### 🏆 **LeetCode Stats**
+### 🚀 [**LeetCode Profile - Soumya Ranjan Mallick**](https://leetcode.com/u/sam-2003/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/u/sam-2003/)  
-[![Solved](https://img.shields.io/badge/Solved-200%20Problems%20-%2300C9A7?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sam-2003/)  
-[![Rating](https://img.shields.io/badge/Rating-%231900%20(Expert)%20-%2300C9A7?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sam-2003/)
+- **Rank**: Global Rank: [#1600+](https://leetcode.com/u/sam-2003/)
+- **Solved Problems**: 200+ problems across various topics.
+- **Rating**: Expert (1900+ rating)
+- **Max Streak**: 100 Days
+- **Current Streak**: 50 Days
+- **Top Contest Rank**: Top 10% in many contests
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sam-2003&theme=dark)
+  
+### 🏆 **LeetCode Achievements**
 
-### 💡 **Streak Challenges**
+- **Max Streak**: 100 days  
+- **Current Streak**: 50 days  
+- **Total Problems Solved**: 200+  
+- **Rank**: Expert (1900+ rating)  
 
-[![50 Days Streak](https://img.shields.io/badge/50%20Days%20Streak-3D?style=for-the-badge&color=blue)](https://leetcode.com/u/sam-2003/)  
-[![100 Days Streak](https://img.shields.io/badge/100%20Days%20Streak-3D?style=for-the-badge&color=gold)](https://leetcode.com/u/sam-2003/)  
-
-### 🔄 **LeetCode Progress**
-
-🚀 **Max Streak**: ![100 Days Streak](https://img.shields.io/badge/Max%20Streak%20100%20Days-green?style=flat&logo=leetcode&logoColor=white)  
-📅 **Current Streak**: ![50 Days Streak](https://img.shields.io/badge/Current%20Streak%2050%20Days-blue?style=flat&logo=leetcode&logoColor=white)
-
-### 💻 **LeetCode Contest Participation**
-- 🏅 **Global Rank**: ![Global Rank](https://img.shields.io/badge/Rank-%231200/10000-red?style=flat&logo=leetcode&logoColor=white)
-- 🏆 **Top 10% in Contests**: Achieved in multiple contests
+[View more details on my LeetCode profile!](https://leetcode.com/u/sam-2003/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
